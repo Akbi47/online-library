@@ -8,3 +8,9 @@ language: TypeScript
 
 ## Use Cases
 - REST API + DynamDB
+## Install
+- npm install
+- npm run build
+- npm run deploy
+- config aws account, create dynamodb table and api gateway (notice to deplay api to use)
+- test with link generate from aws api gateway and test with postman
